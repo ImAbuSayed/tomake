@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/tomake/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Tomake](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tomake/) |
+| **Get License** | [Request Licensing for Tomake](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tomake/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> আঁধারের এই নেশায় তোকে ছুঁতে চাই
+> তোর ভেজা ওই ঠোঁটে আজ হারিয়ে যাই
+> অচেনা এই আগুনে পুড়ছি যে আজ
+> তোর বুকের মাঝে আমার হারালো সব লাজ
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
